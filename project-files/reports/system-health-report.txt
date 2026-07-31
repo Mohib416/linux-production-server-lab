@@ -1,0 +1,11 @@
+Linux System Health Report
+
+CPU: Checked with lscpu
+Memory: Checked with free -h
+Disk: Checked with df -h
+Processes: Checked with top
+Uptime: Checked with uptime
+
+Status:
+System operating normally.
+No critical issues detected.
