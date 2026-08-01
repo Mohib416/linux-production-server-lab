@@ -337,8 +337,7 @@ Below are some of the most representative screenshots.
 
 ## ⚙️ Processes and Services
 
-![Processes and Services](screenshots/50-phase5-git-push-success.png)
-
+![Processes and Services](screenshots/42-ps-ef-process-list.png)
 ---
 
 ## 🌐 Listening TCP/UDP Ports
