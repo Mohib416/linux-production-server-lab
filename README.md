@@ -313,23 +313,79 @@ The scripts were executed manually and also automated using Cron jobs.
 
 The project includes more than **100 screenshots** documenting every stage of the project.
 
-To keep the repository clean and easy to navigate, only the most representative screenshots are included below.
+Below are some of the most representative screenshots.
 
-| Screenshot | Description |
-|------------|-------------|
-| 09-git-push-success.png | First Git commit and push |
-| 19-final-filesystem-layout.png | Linux project filesystem structure |
-| 39-linux-permissions-overview.png | Linux permissions and ownership |
-| 50-phase5-git-push-success.png | Processes and services completed |
-| 57-listening-ports.png | Listening TCP/UDP ports |
-| 63-system-report-script.png | Bash system report script |
-| 72-grep-errors.png | Log analysis and troubleshooting |
-| 83-crontab-list.png | Cron job automation |
-| 95-top-monitoring.png | System monitoring with **top** |
-| 104-system-report.png | Final system validation report |
-| 107-final-git-push.png | Final project delivery |
+---
 
-> Only the most representative screenshots are included in this repository. The complete documentation contains over **100 screenshots** covering the full project workflow.
+## 🚀 First Git Commit and Push
+
+![First Git Commit](screenshots/09-git-push-success.png)
+
+---
+
+## 📁 Final Linux Project Structure
+
+![Project Structure](screenshots/19-final-filesystem-layout.png)
+
+---
+
+## 🔐 Linux Permissions and Ownership
+
+![Linux Permissions](screenshots/39-linux-permissions-overview.png)
+
+---
+
+## ⚙️ Processes and Services
+
+![Processes and Services](screenshots/50-phase5-git-push-success.png)
+
+---
+
+## 🌐 Listening TCP/UDP Ports
+
+![Listening Ports](screenshots/57-listening-ports.png)
+
+---
+
+## 🤖 Bash System Report Script
+
+![Bash Script](screenshots/63-system-report-script.png)
+
+---
+
+## 📜 Log Analysis and Troubleshooting
+
+![Log Analysis](screenshots/72-grep-errors.png)
+
+---
+
+## ⏰ Cron Job Automation
+
+![Cron Jobs](screenshots/83-crontab-list.png)
+
+---
+
+## 📊 System Monitoring
+
+![System Monitoring](screenshots/95-top-monitoring.png)
+
+---
+
+## ✅ Final System Validation Report
+
+![System Report](screenshots/104-system-report.png)
+
+---
+
+## 🎉 Final Git Push
+
+![Final Git Push](screenshots/107-final-git-push.png)
+
+---
+
+> **Note:**  
+> The complete project contains more than **100 screenshots** documenting the entire Linux Administration Lab.  
+> Only the most representative screenshots are included here to keep the repository clean and easy to navigate.
 
 
 ---
