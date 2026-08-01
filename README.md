@@ -228,7 +228,6 @@ The project includes more than **100 screenshots** documenting every stage of th
 
 Below are some of the most representative screenshots.
 
----
 
 ## 🚀 First Git Commit and Push
 
@@ -325,12 +324,19 @@ After completing this project I can confidently perform common Linux administrat
 Throughout this project I strengthened my practical knowledge in:
 
 -Linux Administration
+
 -Bash Scripting
+
 -Troubleshooting
+
 -Networking
+
 -Git & GitHub
+
 -SSH
+
 -Cron
+
 -System Monitoring
 
 ---
