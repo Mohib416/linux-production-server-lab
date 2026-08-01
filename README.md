@@ -311,25 +311,26 @@ The scripts were executed manually and also automated using Cron jobs.
 
 # 📸 Project Screenshots
 
-The project contains more than **100 screenshots** documenting every phase.
+The project includes more than **100 screenshots** documenting every stage of the project.
 
-Below are some of the most representative screenshots.
+To keep the repository clean and easy to navigate, only the most representative screenshots are included below.
 
 | Screenshot | Description |
 |------------|-------------|
-| 09-project-initialization.png | Project initialization |
-| 20-filesystem-management.png | Linux filesystem management |
-| 35-permissions-management.png | Linux permissions |
-| 50-phase5-git-push-success.png | Git workflow |
-| 55-ping-google-dns.png | Network connectivity |
-| 57-listening-ports.png | Listening ports |
-| 66-system-report-output.png | Bash automation |
-| 79-tail-follow-log.png | Log monitoring |
-| 87-phase9-git-push-success.png | Cron automation |
-| 95-top-monitoring.png | System monitoring |
+| 09-git-push-success.png | First Git commit and push |
+| 19-final-filesystem-layout.png | Linux project filesystem structure |
+| 39-linux-permissions-overview.png | Linux permissions and ownership |
+| 50-phase5-git-push-success.png | Processes and services completed |
+| 57-listening-ports.png | Listening TCP/UDP ports |
+| 63-system-report-script.png | Bash system report script |
+| 72-grep-errors.png | Log analysis and troubleshooting |
+| 83-crontab-list.png | Cron job automation |
+| 95-top-monitoring.png | System monitoring with **top** |
+| 104-system-report.png | Final system validation report |
 | 107-final-git-push.png | Final project delivery |
 
-> **Note:** Only the most relevant screenshots are included in the repository to keep it clean and easy to navigate.
+> Only the most representative screenshots are included in this repository. The complete documentation contains over **100 screenshots** covering the full project workflow.
+
 
 ---
 
