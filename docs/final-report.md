@@ -1,5 +1,3 @@
-q# Linux Production Server Validation
-
 ## Project
 
 Linux Production Server Lab
