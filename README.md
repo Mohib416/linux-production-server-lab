@@ -230,6 +230,7 @@ Below are some of the most representative screenshots.
 
 
 
+
 ## 🚀 First Git Commit and Push
 
 ![First Git Commit](screenshots/09-git-push-success.png)
@@ -362,6 +363,6 @@ I believe that practical experience, continuous learning and good documentation 
 
 If you would like to connect or discuss this project, feel free to reach out.
 
-- GitHub: **(add your GitHub profile)**
+- GitHub: [**(add your GitHub profile)**](https://github.com/Mohib416)
 - LinkedIn: [**(add your LinkedIn profile)**](https://www.linkedin.com/in/muhammad-mohib-rizwan-4175a9347/)
 
