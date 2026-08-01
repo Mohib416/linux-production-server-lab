@@ -37,43 +37,6 @@ The project is organized into **11 phases**, each one focused on a different are
 
 ---
 
-# 🚀 Skills Demonstrated
-
-| Category | Skills |
-|-----------|--------|
-| 📁 Filesystem | Directory and file management |
-| 📄 File Management | Copy, move, search and edit files |
-| 🔐 Permissions | chmod, chown, ownership |
-| 👤 Users | Groups and permissions |
-| ⚙️ Processes | ps, top, kill, jobs |
-| 🛠️ Services | systemctl |
-| 📜 Logs | journalctl, grep |
-| 🌐 Networking | ip, ping, ssh, scp, ss |
-| 💾 Storage | df, du, tar |
-| 🤖 Bash | Shell scripting |
-| ⏰ Automation | Cron jobs |
-| 🔍 Troubleshooting | Production server validation |
-| 🌿 Git | Version control |
-| 📚 Documentation | Technical documentation |
-
----
-
-# 🛠 Technologies Used
-
-- Ubuntu Linux
-- Bash
-- Git
-- GitHub
-- Cron
-- Systemd
-- SSH
-- Journalctl
-- Linux Networking
-- Linux Filesystem
-- Linux Permissions
-
----
-
 # 📂 Repository Structure
 
 ```text
@@ -118,56 +81,6 @@ linux-production-server-lab/
 | Phase 9 | Task Scheduling (Cron) |
 | Phase 10 | System Monitoring |
 | Phase 11 | Production Server Validation |
-
----
-
-# ⭐ Main Project Features
-
-✅ Linux filesystem management
-
-✅ User and permissions management
-
-✅ Bash scripting
-
-✅ Linux networking
-
-✅ SSH and SCP
-
-✅ Process monitoring
-
-✅ Service management
-
-✅ Log analysis
-
-✅ Cron automation
-
-✅ Disk management
-
-✅ Production troubleshooting
-
-✅ Git version control
-
----
-
-# 🔄 Project Workflow
-
-The project was developed following a structured learning path that simulates the work of a Linux System Administrator.
-
-Each phase focuses on a different area of Linux administration and gradually builds a complete production server environment.
-
-| Phase | Main Topic | Status |
-|--------|------------|--------|
-| 1 | Project Initialization | ✅ Completed |
-| 2 | Filesystem Setup | ✅ Completed |
-| 3 | File Management | ✅ Completed |
-| 4 | Permissions & Ownership | ✅ Completed |
-| 5 | Processes & Services | ✅ Completed |
-| 6 | Networking | ✅ Completed |
-| 7 | Bash Scripting & Automation | ✅ Completed |
-| 8 | Log Analysis & Troubleshooting | ✅ Completed |
-| 9 | Task Scheduling (Cron) | ✅ Completed |
-| 10 | System Monitoring | ✅ Completed |
-| 11 | Production Server Validation | ✅ Completed |
 
 ---
 
@@ -407,125 +320,18 @@ After completing this project I can confidently perform common Linux administrat
 
 ---
 
-# 🎯 Production Scenario
-
-The final phase of the project simulates a real production server validation.
-
-The following checks were completed:
-
-- ✅ Filesystem verification
-- ✅ Permission verification
-- ✅ Process monitoring
-- ✅ Service validation
-- ✅ Network verification
-- ✅ Log analysis
-- ✅ Disk usage analysis
-- ✅ Bash script execution
-- ✅ Cron job verification
-- ✅ Final production report
-
-This final simulation combines all the knowledge learned throughout the project into a realistic Linux administration workflow.
-
----
-
-# 📖 Documentation
-
-Technical documentation for each phase is available inside the **docs/** folder.
-
-The repository includes:
-
-- Phase documentation
-- Production validation report
-- System reports
-- Bash scripts
-- Project screenshots
-
-The documentation was written to simulate professional project documentation used in real IT environments.
-
----
-
-# 🎓 Learning Outcomes
-
-This project helped me improve both my Linux knowledge and my practical problem-solving skills.
-
-During the project I learned how to:
-
-- Organize a Linux project using a professional folder structure.
-- Work with files and directories efficiently.
-- Manage Linux permissions and ownership.
-- Monitor running processes and system resources.
-- Manage Linux services using systemctl.
-- Analyze logs to troubleshoot system issues.
-- Verify network connectivity and open ports.
-- Create and execute Bash scripts.
-- Automate repetitive tasks using Cron.
-- Use Git and GitHub to manage a real project.
-- Document technical work in a clear and organized way.
-
-More importantly, I learned how different Linux topics work together in a complete administration workflow instead of studying commands separately.
-
----
-
-# 💼 Why I Built This Project
-
-I wanted to create a practical project that demonstrates real Linux administration skills instead of only theoretical knowledge.
-
-The objective was to simulate tasks that a Junior Linux Administrator, Junior Cloud Engineer or Junior DevOps Engineer could perform in a production environment.
-
-Every phase of the project was completed manually, documented and version-controlled using Git and GitHub.
-
----
-
-# 🚀 Future Improvements
-
-Although the project is complete, there are several ideas that could make it even closer to a real production environment.
-
-Possible future improvements include:
-
-- Docker container deployment
-- Nginx web server configuration
-- Apache web server configuration
-- Firewall configuration with UFW
-- User and group management for multiple users
-- SSH key authentication
-- Log rotation
-- Automatic backup scripts
-- Monitoring with Prometheus and Grafana
-- Deployment on an AWS EC2 instance
-- Infrastructure automation with Ansible
-
----
-
 # 📈 Skills Developed
 
 Throughout this project I strengthened my practical knowledge in:
 
-- Linux System Administration
-- Bash Scripting
-- Process Management
-- Service Management
-- Linux Networking
-- SSH
-- Log Analysis
-- Troubleshooting
-- Cron Automation
-- Git & GitHub
-- Technical Documentation
-
----
-
-# 📂 Related Projects
-
-This repository is part of my Cloud Engineering learning journey.
-
-Other projects include:
-
-- AWS Infrastructure Projects
-- Terraform Infrastructure as Code
-- Docker Projects
-- GitHub Actions CI/CD
-- Amazon ECS Deployments
-- Cloud Security Labs
+-Linux Administration
+-Bash Scripting
+-Troubleshooting
+-Networking
+-Git & GitHub
+-SSH
+-Cron
+-System Monitoring
 
 ---
 
@@ -551,25 +357,4 @@ If you would like to connect or discuss this project, feel free to reach out.
 
 - GitHub: **(add your GitHub profile)**
 - LinkedIn: **(add your LinkedIn profile)**
-
----
-
-# 📜 License
-
-This project is released under the MIT License.
-
-See the **LICENSE** file for more information.
-
----
-
-# ⭐ Final Notes
-
-This project represents the completion of a complete hands-on Linux learning path focused on practical system administration.
-
-Rather than collecting Linux commands, the goal was to understand how they are used together to manage, monitor, troubleshoot and validate a production-like Linux server.
-
-Thank you for taking the time to explore this project.
-
-If you found it useful, consider leaving a ⭐ on the repository.
-
 
